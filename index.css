@@ -1,0 +1,12 @@
+canvas {
+	border: 1px solid white;
+	background-color: #202020;
+	cursor: none;
+}
+
+html,
+body {
+	width: 100vh;
+	height: 100vh;
+	background-color: black;
+}
